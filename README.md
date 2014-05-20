@@ -1,4 +1,5 @@
 ### Description
 
-####This project is already finished :)
-####It's programmed with python and the module [**tkinter**](https://wiki.python.org/moin/TkInter)
+This project is already finished :)
+It's programmed with [python](https://www.python.org/) 
+and the module [**tkinter**](https://wiki.python.org/moin/TkInter)
