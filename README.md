@@ -1,4 +1,4 @@
-### Description
+### Calculator
 
 This project is already finished :)
 It's programmed with [**python**](https://www.python.org/) 
