@@ -1,6 +1,6 @@
 ## Calculator
 
-This project is already finished :)
+This project is already finished :smiley:
 It's programmed with [python](https://www.python.org/) 
 and the module [tkinter](https://wiki.python.org/moin/TkInter).
 
