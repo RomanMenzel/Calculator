@@ -10,7 +10,7 @@ To be able to excute this programm, install tkinter by typing this command in a 
 sudo apt-get install python-tk
 ```
 ### Installing the sources
-Open a terminal (Linux) and type following:
+Open a terminal (Linux) and type the following:
 ```
 git clone https://github.com/RomanMenzel/Calculator.git
 ```
