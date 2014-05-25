@@ -16,7 +16,7 @@ git clone https://github.com/RomanMenzel/Calculator.git
 ```
 
 ### Execution
-Change (Terminal) to the path and type following in:
+Change (Terminal) to the path and type in following:
 ```
 python2 soure.py
 ```
